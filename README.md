@@ -54,7 +54,7 @@ I'm a data analyst with hands-on, project-based experience in **data preparation
 
 ## 📫 Let's Connect
 
-I'm open to data analytics roles, internships, and collaborations. Feel free to reach out via [LinkedIn](www.linkedin.com/in/alen-charls
+I'm open to data analytics roles, internships, and collaborations. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/alen-charls/
 ) or [email](mailto:alencharlswyd@gmail.com).
 
 <p align="center">⭐ Thanks for stopping by!</p>
