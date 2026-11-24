@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Power BI • SQL • Python • Generative AI</h3>
 
 <p align="center">
-  📍 Mysore, Karnataka, India &nbsp;|&nbsp; 🎓 BCA (Cyber Security), Christ College, 2023–2026
+  📍 Bengaluru, Karnataka, India &nbsp;|&nbsp; 🎓 BCA (Cyber Security), Christ College, 2023–2026
 </p>
 
 <p align="center">
