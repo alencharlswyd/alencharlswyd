@@ -43,25 +43,6 @@ I'm a data analyst with hands-on, project-based experience in **data preparation
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏥 Hospital Emergency Room (ER) Data Analysis
-**Tools:** Power BI
-- Interactive dashboard analyzing patient admissions, patient flow, waiting times, and healthcare performance metrics.
-- Uses KPIs, charts, slicers, filters, and drill-down features for data exploration.
-
-### 🚗 Car Sales Analysis
-**Tools:** Power BI
-- Analyzed sales performance, revenue trends, vehicle categories, customer preferences, and regional patterns.
-- Built dashboard visuals to compare trends and communicate business insights.
-
-### 🤖 Agentic AI – Multi-Platform Data Integration & Automation
-**Tools:** Generative AI, Prompt Engineering, Gmail, Excel
-- Gmail-to-Excel workflow that extracts email information into structured spreadsheets.
-- Explored email categorization, data linking, information extraction, and AI-assisted drafting.
-
----
-
 ## 🎓 Education & Certifications
 
 - 🎓 **BCA in Cyber Security**, Christ College (2023–2026)
